@@ -1,0 +1,42 @@
+body{
+    background-color: khaki;
+}
+
+h1{
+    text-align:center;
+}
+h2 {
+    
+    color:royalblue;
+    background-color:indianred;
+    font-size:30px;
+    text-align:center;
+}
+
+/*#FORMATION{
+      text-align: right;
+}
+#Experience{
+    color:royalblue;
+    background-color:indianred;
+    font-size:30px;  
+    text-align: right;
+}
+#Langues{
+    color:royalblue;
+    background-color:indianred;
+    font-size:30px;
+    text-align: right;
+}
+#Loisirs{
+    color:royalblue;
+    background-color:indianred;
+    font-size:30px;
+    text-align: right;
+}
+#vie_associative{
+    color:royalblue;
+    background-color:indianred;
+    font-size:30px;
+    text-align: right;
+}*/
